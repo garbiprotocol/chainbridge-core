@@ -39,3 +39,5 @@ centrifuge-chain/
 /solidity
 /cfgBuilder/*.toml
 /lvldbdata
+/nbproject
+garbi/cfg/

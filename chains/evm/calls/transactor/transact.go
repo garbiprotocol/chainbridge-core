@@ -9,8 +9,8 @@ import (
 )
 
 var DefaultTransactionOptions = TransactOptions{
-	GasLimit: 2000000,
-	GasPrice: big.NewInt(0),
+	GasLimit: 300000,
+	GasPrice: big.NewInt(100000000),
 	Value:    big.NewInt(0),
 }
 

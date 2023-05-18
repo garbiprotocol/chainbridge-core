@@ -1,0 +1,2 @@
+16-05|15:00:00.543 Called evm-cli with args: --gas-limit="6721975" --gas-price="0" --help="false" --json-wallet="" --json-wallet-password="" --network="0" --prepare="false" --private-key="" --url="ws://localhost:8545" =>
+16-05|15:00:00.559 Called evm-cli with args: --gas-limit="6721975" --gas-price="0" --help="false" --json-wallet="" --json-wallet-password="" --network="0" --prepare="false" --private-key="" --url="ws://localhost:8545" =>
